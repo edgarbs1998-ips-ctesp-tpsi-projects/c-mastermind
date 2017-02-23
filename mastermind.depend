@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1483065668 source:f:\workspace\mastermind\mastermind\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1485442576 source:e:\casa\mastermind\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1485728183 source:c:\users\goldspy98\desktop\mastermind\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1485879952 source:e:\mastermind\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1486000043 source:c:\users\edgar santos\desktop\mastermind\main.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	"colors.h"
+	"defines.h"
+	"util.h"
+	"game.h"
+
+1485906965 source:c:\users\edgar santos\desktop\mastermind\resources.rc
+
+1485906966 source:c:\users\edgar santos\desktop\mastermind\icon.rc
+
+1485906966 source:e:\mastermind\icon.rc
+
+1486000028 c:\users\edgar santos\desktop\mastermind\util.h
+	<windows.h>
+
+1486000028 source:c:\users\edgar santos\desktop\mastermind\util.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	"util.h"
+	"colors.h"
+	"defines.h"
+
+1485995338 c:\users\edgar santos\desktop\mastermind\colors.h
+	<windows.h>
+
+1485996421 c:\users\edgar santos\desktop\mastermind\defines.h
+
+1486000417 source:c:\users\edgar santos\desktop\mastermind\game.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	"game.h"
+	"colors.h"
+	"defines.h"
+	"util.h"
+
+1486000417 c:\users\edgar santos\desktop\mastermind\game.h
+	<windows.h>
+	"colors.h"
+	"util.h"
+
+1486000028 source:c:\users\edgar santos\desktop\mastermind\ranking.c
+	<windows.h>
+	<stdio.h>
+	"ranking.h"
+	"colors.h"
+	"util.h"
+
+1485999279 c:\users\edgar santos\desktop\mastermind\ranking.h
+	<windows.h>
+	<time.h>
+	"util.h"
+
+1486074517 source:c:\users\edgar santos\desktop\mastermind\src\ranking.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"colors.h"
+	"util.h"
+
+1486047767 c:\users\edgar santos\desktop\mastermind\src\ranking.h
+	<windows.h>
+	<time.h>
+	"settings.h"
+	"util.h"
+
+1486077459 c:\users\edgar santos\desktop\mastermind\src\util.h
+	<windows.h>
+
+1486002741 c:\users\edgar santos\desktop\mastermind\src\colors.h
+	<windows.h>
+
+1486077578 source:c:\users\edgar santos\desktop\mastermind\src\game.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"game.h"
+	"settings.h"
+	"colors.h"
+	"util.h"
+	"ranking.h"
+
+1486047708 c:\users\edgar santos\desktop\mastermind\src\game.h
+	<windows.h>
+	"settings.h"
+	"colors.h"
+	"util.h"
+
+1486078074 c:\users\edgar santos\desktop\mastermind\src\settings.h
+	"colors.h"
+
+1486082223 source:c:\users\edgar santos\desktop\mastermind\src\main.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	"settings.h"
+	"colors.h"
+	"util.h"
+	"menu.h"
+	"game.h"
+	"ranking.h"
+
+1486087794 source:c:\users\edgar santos\desktop\mastermind\src\util.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	"util.h"
+	"settings.h"
+	"colors.h"
+
+1486047732 c:\users\edgar santos\desktop\mastermind\src\menu.h
+	<windows.h>
+	"util.h"
+
+1486045638 source:c:\users\edgar santos\desktop\mastermind\src\menu.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"menu.h"
+	"colors.h"
+	"util.h"
+	"game.h"
+	"ranking.h"
+
+1485906966 source:c:\users\edgar santos\desktop\código fonte\icon.rc
+
+1486090748 source:c:\users\edgar santos\desktop\código fonte\src\game.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"game.h"
+	"settings.h"
+	"colors.h"
+	"util.h"
+	"ranking.h"
+
+1486047708 c:\users\edgar santos\desktop\código fonte\src\game.h
+	<windows.h>
+	"settings.h"
+	"colors.h"
+	"util.h"
+
+1486078074 c:\users\edgar santos\desktop\código fonte\src\settings.h
+	"colors.h"
+
+1486002741 c:\users\edgar santos\desktop\código fonte\src\colors.h
+	<windows.h>
+
+1486077459 c:\users\edgar santos\desktop\código fonte\src\util.h
+	<windows.h>
+
+1486598523 c:\users\edgar santos\desktop\código fonte\src\ranking.h
+	<windows.h>
+	<time.h>
+	"settings.h"
+	"util.h"
+
+1486087794 source:c:\users\edgar santos\desktop\código fonte\src\util.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	"util.h"
+	"settings.h"
+	"colors.h"
+
+1486597351 source:c:\users\edgar santos\desktop\código fonte\src\main.c
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	"settings.h"
+	"colors.h"
+	"util.h"
+	"menu.h"
+	"game.h"
+	"ranking.h"
+
+1486597320 c:\users\edgar santos\desktop\código fonte\src\menu.h
+	<windows.h>
+	"util.h"
+
+1486597885 source:c:\users\edgar santos\desktop\código fonte\src\menu.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"menu.h"
+	"colors.h"
+	"util.h"
+	"game.h"
+	"ranking.h"
+
+1486598951 source:c:\users\edgar santos\desktop\código fonte\src\ranking.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"colors.h"
+	"util.h"
+
