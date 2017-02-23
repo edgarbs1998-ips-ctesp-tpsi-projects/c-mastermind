@@ -1,6 +1,11 @@
 # C-Mastermind
 A simple Mastermind game developed in C as part of a university project.
 
+# Development
+At this moment only Windows operating system is supported due to the use of `windows.h` library.
+
+It has been developed with [Code::Blocks](http://www.codeblocks.org/) IDE and [MinGW](http://www.mingw.org/) compiler.
+
 # Localization
 Most of project's variables and functions are typed in English, however the strings displayed on the screen are typed in Portuguese.
 
